@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 //import { plugins } from '../lib/plugins.js'
 let tags = {
-  'morocco':' ',
+
   'applications':'‎ أوامر التطبيقات‎',
   'drawing':'‎ توليد الصور‎ أوامر' ,
   'ai':'‎ الذكاء الاصطناعي‎ أوامر',
@@ -13,11 +13,11 @@ let tags = {
   'anime':'‎ أوامر عن  الأنيم',
   'islam':'‎ الدين هو الاسلام‎',
   'owner':'‎ اوامر صاحب البوت',
-  'search':'‎ أوامر البحث',
+
   'audio-changer':'‎ تعديل الصوتيات‎',
   'sticker':'‎ أوامر الملصقات',
   'image-edit':'‎ تعديل الصور',
-  'pdf':'‎ pdf ومشتقاته‎',
+
   'uploader':'‎‎ رفع الملفات‎',
 }
 const defaultMenu = {
@@ -136,8 +136,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'dala BOT ♥',
-body: "أول بوت واتساب في العالم العربي 💖",
+title: 'DALA BOT ♥',
+body: "🫀ان الله وملائكته يصلون على النبي ",
 thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
 sourceUrl: 'https://instagram.com/3abdollah_dl',
 mediaType: 1,
