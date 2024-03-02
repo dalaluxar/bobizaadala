@@ -134,7 +134,7 @@ contextInfo: {
 externalAdReply: {
 title: 'DALA BOT ♥',
 body: "🫀ان الله وملائكته يصلون على النبي ",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
+thumbnailUrl: 'https://telegra.ph/file/18401f1062f1144fd2861.jpg',
 sourceUrl: 'https://instagram.com/3abdollah_dl',
 mediaType: 1,
 renderLargerThumbnail: true
